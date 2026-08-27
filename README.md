@@ -1,6 +1,6 @@
 # Process Monitor
 
-> ⚠️ **This is vibecode.** This project was built almost entirely by prompting an AI assistant (Claude), with light human review, not written from scratch by a security engineer. It has **not** been audited, pen-tested, or reviewed by a professional. Read the code before you run it, especially anything involving process termination or admin privileges. Use at your own risk, and don't treat this as a substitute for real security software.
+> ⚠️ **This is vibecoded.** This project was built almost entirely by prompting an AI assistant (Claude), with light human review, not written from scratch by a security engineer. It has **not** been audited, pen-tested, or reviewed by a professional. Read the code before you run it, especially anything involving process termination or admin privileges. Use at your own risk, and don't treat this as a substitute for real security software.
 
 A small Windows desktop app that scans your running processes, flags ones that look **heuristically suspicious** — with a special eye on remote access software and known malware/RAT naming patterns — and lets you toggle to see the full list of every process on your machine.
 
