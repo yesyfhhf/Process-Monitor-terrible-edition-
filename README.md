@@ -51,8 +51,8 @@ Treat every flag as *"worth a second look,"* never as a verdict. Pair this with 
 Requires **Python 3.8+** with Tk support (bundled with the official python.org installers for Windows/macOS; on Linux, `sudo apt install python3-tk`).
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/yesyfhhf/Process-Monitor-terrible-edition.git
+cd Process-Monitor-terrible-edition
 pip install -r requirements.txt
 python process_monitor.py
 ```
