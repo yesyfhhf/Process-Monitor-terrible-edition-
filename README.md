@@ -4,6 +4,8 @@
 
 A small Windows desktop app that scans your running processes, flags ones that look **heuristically suspicious** — with a special eye on remote access software and known malware/RAT naming patterns — and lets you toggle to see the full list of every process on your machine.
 
+**note for some reason downloading the src from the release doesn't work and idk how to fix it so just download the py file and the requirements.txt file if you wanna run from the source**
+
 ---
 
 ## ⚠️ What this actually is (please read)
